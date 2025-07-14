@@ -1,0 +1,8 @@
++ve
+To ensure the Text box in every chatboxs
+To verify the texbox accepts String, Integer and Special characters
+To validate the status was posting Successfully
+-ve
+status not posting
+Message not sending
+Profile image not visible
